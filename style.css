@@ -1,3 +1,24 @@
+<<<<<<< HEAD
 h1{
     color: silver
+=======
+body{
+    background-color: rgb(233, 233, 233);
+}
+
+h1{
+    color: silver
+}
+p{
+    color: white
+}
+
+footer{
+    display: flex;
+    background-color: antiquewhite;
+    color:black;
+}
+footer>p{
+    color: black;
+>>>>>>> dev
 }
